@@ -1,0 +1,8 @@
+.file {
+  @apply mt-10 mb-3 border bg-gray-200 p-2 rounded-sm text-sm;
+}
+
+.file::-webkit-file-upload-button {
+  @apply text-gray-800 bg-gray-400 hover:text-gray-200 hover:bg-gray-800 border-none py-1 rounded-lg transition cursor-pointer;
+}
+

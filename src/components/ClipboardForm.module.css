@@ -1,0 +1,11 @@
+.clipboard-form {
+  @apply flex bg-slate-400 p-4 rounded-sm;
+}
+
+.form {
+  @apply flex-1 mx-2 shadow-xl;
+}
+
+.input {
+  @apply w-full h-full bg-white p-2 text-sm font-medium outline-none rounded-sm;
+}
