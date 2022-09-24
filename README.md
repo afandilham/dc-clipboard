@@ -1,5 +1,6 @@
 # dc-clipboard
 
+## Todo
 - [x] Context and provider
 - [x] Make clipboard lists, and render the data based on Context
 - [x] Save clipboard to localStorage
